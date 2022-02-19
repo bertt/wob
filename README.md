@@ -1,13 +1,21 @@
 # wob
 
 Testing OCR of large and unsearchable PDF's from Dutch Public Access to Government Information Act ('Wob') using 
-Tesseract Open Source OCR Engine. 425 pages done in 15 minutes.
+Tesseract Open Source OCR Engine (https://github.com/tesseract-ocr/tesseract). 
 
-From:
+425 pages done in 15 minutes.
+
+Input document: https://github.com/bertt/wob/blob/main/220211/wob-documenten.pdf (425 pages)
+
+Sample page png: 
+
+https://github.com/bertt/wob/blob/main/220211/images/wob-documenten-001.png
 
 ![image](https://user-images.githubusercontent.com/538812/154796646-3f30c3a6-020c-4034-8d61-9ac45a14e4af.png)
 
-To:
+Result:
+
+https://github.com/bertt/wob/blob/main/220211/images/wob-documenten-001.png.txt
 
 ```
 App wisseling Gerard Beverdam (Nederlands Dagblad)
