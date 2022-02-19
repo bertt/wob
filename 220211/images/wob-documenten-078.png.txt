@@ -1,0 +1,158 @@
+0016
+
+te maken? Daar ging de vraag over van de heer Klaver en
+dat is een zeer terechte vraag. We hebben die vraag neer-
+
+gelegd bij het RIVM om daar de komende weken met ons
+
+verder aan te werken. Bij de vaststelling van de signaalwaar-
+den zullen we uiteindelijk het OMT om advies vragen. De
+
+doelen in onze strategie zijn niet veranderd, namelijk hoe
+
+beschermen we kwetsbare personen het best en hoe voor-
+komen we dat de zorg overbelast raakt? Maar de signaal-
+
+waarden die moeten leiden tot een dusdanige beheersing
+zodat je die doelen niet in gevaar brengt, moet je daar wel
+goed op enten.
+
+Ik zal een voorbeeld noemen. We hebben nu een instroom
+van zo'n vijf nieuwe ic-patiénten op een dag. We hebben
+een lange tijd op rond de tien ic-patiénten op een dag
+gezeten. Stel je voor, als rekenvoorbeeld, dat je structureel
+tien ic-patiénten op een dag hebt. De gemiddelde dur van
+de bezetting van een ic-bed is 21 dagen. Dan heb je op den
+duur een structurele ic-bezetting van zo'n 210. Kunnen we
+dat aan? Ja, dat kunnen we aan op het moment dat we de
+ic-capaciteit structureel groter maken. Maar we hebben ook
+gezien wat het doet met de zorg op het moment dat de ic-
+capaciteit op een hele snelle manier moet worden opge-
+schaald, Dat betekent dat andere zorg moet worden afge-
+schaald. Dat is heel ingrijpend voor de zorg, niet alleen voor
+de medewerkers op de ic's, maar ook voor patiénten die
+die ziekenhuiszorg voor andere ziekten, kwalen en aandoe-
+ningen nodig hebben. Je moet dus voorkomen dat je nog
+een keer zo'n piek krijgt waarin je in zo'n korte tijd moet
+opschalen
+
+Is tien per dag een goed getal om vast te stellen? Daar kun
+je eigenlijk pas ja op zeggen op het moment dat je ook weet
+hoe dat zich verhoudt tot andere getallen. We weten uit de
+ervaringsgegevens dat 10 op de ic zich ongeveer verhoudt
+tot 40 in de gewone ziekenhuisbedden. Dat is te doen. Dat
+kan je opvangen in de ziekenhuizen als je de covidcapaciteit
+daarvoor structureel uitbreidt. En dan moet je weer het
+volgende bekijken; dat moeten we echt gaan leren. Als je
+iedereen test — en we hopen echt dat dat in juni kan — hoe
+verhouden de uitslagen van die tests zich dan tot de zieken-
+huisopnames en tot de ic-opnames? Vervolgens moet je
+op basis daarvan de goede signaalwaarden ontwikkelen
+ten aanzien van de R, en de besmettelijke personen. De R,
+
+is niet zo ingewikkeld, want de R, is eigenlijk al een vastge-
+
+stelde signaalwaarde, namelijk onder de 1. Datis belangrijk,
+maar die krijgt eigenlijk pas betekenis ten opzichte van het
+totale aantal besmettelijke personen. Je kunt nu de vol-
+gende vuistregel hanteren: het aantal ic-patiénten keer 350
+@ 500. Dan kun je een inschatting maken van het totale
+aantal besmettelijke personen. Wat ik nu doe, is de getallen
+gebruiken zoals die op dit moment in de gesprekken tussen
+het RIVM, het ministerie en de mensen die lid zijn van het
+Outbreak Management Team worden gehanteerd. Maar ik
+vind het belangrijk om veel preciezer die signaalwaarden
+met elkaar vast te stellen, op zo'n manier dat we weten en
+ook steeds beter gaan leren: als we op deze manier kijken
+naar de cijfers die ons ter beschikking staan, weten we altijd
+wanneer we op tijd op de rem moeten staan. Als het een
+keertje gaat om elf of twaalf op de ic, zul je niet meteen in
+paniek schieten, denk ik. Je zult altijd naar een gemiddelde
+instroom per dag moeten kijken of bijvoorbeeld naar een
+gemiddelde instroom over de afgelopen drie dagen. Dat
+zou je kunnen doen. Als dat dan snel stijgt, ga je er op den
+duur natuurlijk van uit dat je via de testraad een week eer-
+der, minstens een week eerder, dat golfje eigenlijk al hebt
+zien aankomen. Zo moet dat werken
+
+Tweede Kamer
+
+We hopen dus dat we eerder in de tijd, op basis van de
+vroegtijdige waarschuwingsgegevens, vervolgens op basis
+van de ondersteunende indicatoren die met name bij het
+RIVM goed geduid kunnen worden en vervolgens op basis
+van de harde te tellen indicatoren — denk aan de testgege-
+vens, de ziekenhuisopnames en de ic-opnames — telkens
+meer leren: als je dit hier ziet gebeuren, weet je dat je over
+een week daar staat. Je hoopt dat vervolgens ook regionaal
+te kunnen toepassen. Het aantal regionale ic-plaatsingen
+kennen heeft niet zoveel zin, want het zijn vaak bovenregi-
+onale plaatsingen. Met tien per dag is het minder dan éen
+in een regio per dag. Dus dat heeft niet zo heel veel zin. Het
+aantal ziekenhuisopnames kennen heeft al meer zin. Het
+heeft met name zin om te weten wat de testuitslagen per
+regio zijn, maar ook om te weten wat die per leeftijdscohort
+zijn. Dat wil je. Want als je dat weet, kun je veel beter ana-
+lyseren hoe hoog de besmettingsgraad in die regio is. Het
+meet op den duur zo werken dat je dan ook regionaal
+maatregelen kunt treffen, Dus dat dashboard moet wat mij
+betreft op den duur zo gaan werken dat je weet vanaf welke
+signaalwaarden je moet gaan ingrijpen, dus of je moet
+ingrijpen, 6f je maatregelen moet tretfen, dat je weet welke
+maatregelen je moet treffen, want je analyseert waar het
+misgaat, en ook dat je weet waar je die maatregelen moet
+treffen — in welke regio’s is het relevant om nu te gaan
+remmen? — omdat je weet dat er anders weer en meer
+sprake is van bovenregionale verspreiding.
+
+    
+
+Gaat het daarmee lukken om het virus helemaal ingedamd
+te houden, zodat we nooit een soort tweede golf krijgen?
+Nee, dat kunnen we zo niet zeggen. We weten ook dat de
+meeste besmettingen zich gewoon onder de radar afspelen.
+Ongeveer 0,35% van de besmette personen belandt uitein-
+delijk op de ic. Dat is heel weinig. Vandaar ook die som van
+keer 350, die je als vuistregel kunt hanteren. Dat is een
+rekenkundige aanname, een statische eanname; dat is
+berekend. Maar je weet aan de hand daarvan dat de meeste
+besmettingen zich helemaal onder de radar afspelen. Dus
+ik heb wel de hoop dat iedereen die een besmetting door-
+maakt zich uiteindelijk zal gaan melden bij de testraad, maar
+ik weet ook heel zeker dat dat niet het geval zal zijn, omdat
+heel veel mensen zulke milde klachten hebben dat ze nau-
+welijks zullen ervaren dat ze klachten hebben. Daar gaan
+we natuurlijk goed campagne ap vaeren; dat zal ik zo toe-
+lichten. We gaan mensen natuurlijk zo veel mogelijk uitno-
+digen om thuis te blijven bij klachten en zich te laten testen
+Maar we weten dat we altijd een flink deel van die werke-
+lijkheid zullen missen, omdat er besmettingen zijn die
+gewoon onder de radar plaatsvinden. Dat is het nadeel van
+dit virus,
+
+Wij komen op een niet al te lange termijn — ik hoop met
+een aantal weken — bij de Kamer terug met een uitwerking
+van de signaalwaarden. Daar gaan we de komende weken
+mee aan de slag. Op basis van die signaalwaarden kan ik
+beter duiden hoe dat model gaat werken. Daarnaast komen
+we terug met de uitwerking van een regional waarschu-
+wingssysteem. Ik vind namelijk dat dat van toegevoegde
+waarde is om te kijken of je de maatregelen ook zo regionaal
+mogelijk kunt treffen. Daaraan verbonden zouden dus ook
+publieksadviezen kunnen gaan gelden. Stel dat in een regio
+de besmettingsgraad hoog is. Dan kan je niet alleen maat-
+regelen treffen die daarbij passen, maar ook een regionaal
+advies daaraan verbinden, waerbij je zegt: "Als je nou gaat
+statten, doe het dan effe niet in die regio. Blijf uit die regio
+weg; ga daar niet onnodig heen." Of: "Blijf zeker in die regio
+zo veel mogelijk thuiswerken. Voorkom dat je onderdeel
+wordt van de overdracht van die besmetting.”
+
+ 
+
+20 mei 2020
+
+Ontwikkelingen rondom het coronavirus TK 73 73-6-44
+
+9720082
+
