@@ -30,3 +30,24 @@ van het overleg. Bel je zo!
 
 0001 14826351
 ```
+
+## Scripts
+
+Step 1: Convert PDF to png's (each page 1 png)
+
+```
+$ pdftoppm wob-documenten.pdf ./images/wob-documenten -png
+```
+
+Step 2:
+
+Loop through all png's, for each png do tesseract analysis, output txt files
+
+```
+echo "hallo"
+cd images
+for FILE in *.png; 
+do echo $FILE; 
+tesseract $FILE $FILE
+done
+```
